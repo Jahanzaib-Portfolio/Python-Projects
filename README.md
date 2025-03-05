@@ -4,5 +4,7 @@ This is a basic Python script that lets a user write notes and saves them to a f
 Why This Project?
 
 ✅ Helps understand file handling (basic storage concept).
+
 ✅ Introduces the idea of saving and retrieving data (similar to cloud storage).
+
 ✅ No external libraries or API keys required!
